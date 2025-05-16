@@ -123,7 +123,7 @@ The system translates network traffic characteristics into real-time audio using
 4. **Clone this repository**
 
    ```bash
-   git clone https://github.com/yourusername/network-security-monitor.git
+   git clone https://github.com/W23-94/Sonification-Engine.git
    cd network-security-monitor
    ```
 
